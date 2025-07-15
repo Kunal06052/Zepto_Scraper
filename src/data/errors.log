@@ -1,0 +1,879 @@
+[2025-07-11 17:36:23] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-11 17:57:10] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-11 18:00:07] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-11 18:21:42] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 10:14:50] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 10:29:23] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 10:52:56] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 10:52:59] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 11:07:48] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 11:12:39] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 11:12:43] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 11:30:01] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:00:40] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 12:00:46] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:00:59] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 12:01:06] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:16:34] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:19:26] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:32:46] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 12:32:50] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:50:03] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 12:54:34] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 12:54:39] ERROR: name 'json_to_flat_csv' is not defined
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:00:43] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:00:50] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:00:53] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:16:10] ERROR: name 'json_to_flat_csv' is not defined
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:17:19] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:22:41] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:25:20] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:33:27] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:33:30] ERROR: name 'json_to_flat_csv' is not defined
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:37:36] ERROR: name 'json_to_flat_csv' is not defined
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 13:39:38] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:39:42] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=7665ba25-feaf-49b9-992e-798bad7ce822&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 13:40:40] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:40:44] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=75401b0f-b7dc-4c9e-8065-6e93bd3e65f7&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 13:43:25] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:43:28] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=1eae59a9-7f9d-45bd-aed9-cf0a4c0981a2&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 13:46:48] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:46:52] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=aad54fa0-1838-4d96-87f2-36f2b62e372c&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 13:49:22] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 13:49:25] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=007e7ac5-e2ff-437d-98e8-45851609cea2&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 13:55:21] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=75401b0f-b7dc-4c9e-8065-6e93bd3e65f7&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 14:00:34] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[data-testid=\"location-confirm-btn\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 14:00:56] ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 14:01:01] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[data-testid=\"location-confirm-btn\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 14:01:07] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div.no-scrollbar.sticky a") to be visible
+    - locator resolved to 13 elements. Proceeding with the first one: <a id="7dceec53-78f9-4f06-83d7-c8edd9c2f71a" href="/cn/cold-drinks-juices/top-picks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/7dceec53-78f9-4f06-83d7-c8edd9c2f71a?" class="relative mb-2 flex cursor-pointer items-center p-2↵        rounded-b-md bg-gradient-to-t from-[#5C1E9A]/10 to-transparent text-body6 font-medium text-skin-primary-dark↵      ">…</a>
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 14:01:23] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 14:01:37] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 14:10:56] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=007e7ac5-e2ff-437d-98e8-45851609cea2&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 14:22:15] ERROR: name 'json_to_flat_csv' is not defined
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 14:36:15] ERROR: 'NoneType' object has no attribute 'keys'
+  Context: NetworkDataCatcher._response_interceptor
+------------------------------------------------------------
+[2025-07-12 14:42:32] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 14:42:36] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=5b3333af-d3f3-4c03-b48f-320e796396ff&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 14:44:54] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 14:44:58] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=45cd6708-49be-4b5a-98c6-20cca13b222d&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 14:57:09] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=5b3333af-d3f3-4c03-b48f-320e796396ff&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 14:59:02] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 14:59:56] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=45cd6708-49be-4b5a-98c6-20cca13b222d&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-12 15:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-12 15:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:00:06] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-12 15:00:06] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:00:46] ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:01:12] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[data-testid=\"location-confirm-btn\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:01:25] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[data-testid=\"location-confirm-btn\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:01:26] ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:16:00] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:16:11] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=2496f6f1-3e75-4f8d-b81f-c88cfd886149&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:17:50] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:18:01] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=b0ae7418-6a7b-4565-a760-891f817b5d7a&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:24:17] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div.no-scrollbar.sticky a") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:24:47] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:24:52] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=e857732b-7be6-4127-92f7-e2a572d9a05d&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:27:57] ERROR: ElementHandle.get_attribute: Target page, context or browser has been closed
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:28:11] ERROR: ElementHandle.get_attribute: Target page, context or browser has been closed
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-12 15:28:11] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:28:15] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=2b4c2c6a-594d-429c-9a33-71a0eec8da99&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:29:05] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:29:09] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=c5caacb5-4bff-4c33-884e-916f41ed23cd&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:32:52] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:32:55] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=7828d6f9-2d1d-4663-ac38-3ebca4302adf&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:34:54] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:34:58] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=d49e35a8-acbd-43b9-bdac-982c26625f69&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:39:40] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:39:44] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=257e2f6e-35c4-4e78-afcf-d5e1c130f4b2&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:41:10] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 15:41:13] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=be67be9f-9c3c-469a-80d4-b3d29433e303&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 15:58:45] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=be67be9f-9c3c-469a-80d4-b3d29433e303&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:00:18] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:00:23] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=2809502a-1c2c-4305-9b1d-f00d75bf65c3&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=3fa5e86a-2ba4-4e2b-8661-c01787267614&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:04:02] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:04:06] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=7201780a-6d6f-4cfa-a08a-1ef88e21655a&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:08:12] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:08:16] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=8de1a242-605d-4641-ad04-8cfccb22f5b9&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:15:01] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:15:05] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=231ea224-3edc-4204-ae54-0b1c8df54148&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:22:33] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:22:37] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=2de15810-70bd-40e6-a769-90fc887a51c3&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:25:29] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:25:33] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=a7703fbc-c6be-40d7-8a6e-ae39f155d9b1&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:36:40] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:36:44] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=126d58b8-3200-4504-b8fe-36221b7925d0&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:39:53] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=a7703fbc-c6be-40d7-8a6e-ae39f155d9b1&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:46:26] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 16:46:29] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=2&user_session_id=1b5a1c81-f292-4b72-8289-9099ef68990d&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:51:30] ERROR: XHR data saved and converted
+  Context: https://cdn.bff.zeptonow.com/api/v2/store-products-by-store-subcategory-id?store_id=0ed3c6ae-9a69-4458-aac5-b6c3342c8954&subcategory_id=7dceec53-78f9-4f06-83d7-c8edd9c2f71a&page_number=3&user_session_id=126d58b8-3200-4504-b8fe-36221b7925d0&boosted_pv_ids=
+------------------------------------------------------------
+[2025-07-12 16:58:58] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:16:40] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:32:13] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:35:52] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:38:54] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:41:38] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-12 17:44:54] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 10:25:17] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 10:36:33] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 10:37:40] ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("input[placeholder=\"Search a new address\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 10:42:42] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 11:00:22] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 11:00:29] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 11:00:33] ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 12:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 12:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 12:02:44] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 12:26:37] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:00:25] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:10:09] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:10:12] ERROR: [Scroll] No new products, scrolling up and down. Attempt 1
+------------------------------------------------------------
+[2025-07-14 13:10:16] ERROR: [Scroll] No new products, scrolling up and down. Attempt 2
+------------------------------------------------------------
+[2025-07-14 13:10:23] ERROR: [Scroll] No new products, scrolling up and down. Attempt 1
+------------------------------------------------------------
+[2025-07-14 13:10:25] ERROR: [Scroll] No new products, scrolling up and down. Attempt 2
+------------------------------------------------------------
+[2025-07-14 13:10:28] ERROR: [Scroll] No new products loaded after retries, stopping.
+------------------------------------------------------------
+[2025-07-14 13:10:28] ERROR: Total loaded product cards: 64
+------------------------------------------------------------
+[2025-07-14 13:31:05] ERROR: ERROR: Could not add/check quantity for product 60: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is visible, enabled and stable
+    - scrolling into view if needed
+    - done scrolling
+    - performing click action
+
+------------------------------------------------------------
+[2025-07-14 13:39:48] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:39:49] ERROR: 'ProductActions' object has no attribute 'process_all_products'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 13:41:41] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:41:42] ERROR: ERROR: Could not add/check quantity for product 0: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:41:42] ERROR: ERROR: Could not add/check quantity for product 16: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:41:42] ERROR: Page.evaluate() takes from 2 to 3 positional arguments but 4 were given
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 13:43:44] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:43:44] ERROR: ERROR: Could not add/check quantity for product 20: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:43:45] ERROR: ERROR: Could not add/check quantity for product 23: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:45:22] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 13:48:58] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:49:00] ERROR: ERROR: Could not add/check quantity for product 3: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:49:01] ERROR: ERROR: Could not add/check quantity for product 10: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:49:55] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 13:50:25] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:50:25] ERROR: ERROR: Could not add/check quantity for product 16: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:51:30] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 13:52:42] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 13:52:43] ERROR: ERROR: Could not add/check quantity for product 1: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:52:43] ERROR: ERROR: Could not add/check quantity for product 21: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 13:53:53] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 14:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 14:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 14:00:25] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:00:26] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:00:28] ERROR: ERROR: Could not add/check quantity for product 0: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:00:28] ERROR: ERROR: Could not add/check quantity for product 20: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:00:50] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:00:51] ERROR: [Scroll] No new products, scrolling up and down. Attempt 1
+------------------------------------------------------------
+[2025-07-14 14:00:54] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 14:00:55] ERROR: [Scroll] No new products, scrolling up and down. Attempt 1
+------------------------------------------------------------
+[2025-07-14 14:00:57] ERROR: [Scroll] No new products, scrolling up and down. Attempt 2
+------------------------------------------------------------
+[2025-07-14 14:00:59] ERROR: [Scroll] No new products loaded after retries, stopping.
+------------------------------------------------------------
+[2025-07-14 14:00:59] ERROR: Total loaded product cards: 64
+------------------------------------------------------------
+[2025-07-14 14:13:52] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:13:54] ERROR: ERROR: Could not add/check quantity for product 4: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:13:56] ERROR: ERROR: Could not add/check quantity for product 19: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:15:25] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 14:23:09] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:23:10] ERROR: ERROR: Could not add/check quantity for product 6: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:23:11] ERROR: ERROR: Could not add/check quantity for product 26: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:25:44] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 14:31:42] ERROR: NetworkDataCatcher.__init__() got an unexpected keyword argument 'save_file'. Did you mean 'csv_file'?
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 14:34:24] ERROR: NetworkDataCatcher.__init__() got an unexpected keyword argument 'json_file'. Did you mean 'csv_file'?
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 14:38:31] ERROR: NetworkDataCatcher.__init__() got an unexpected keyword argument 'json_file'. Did you mean 'csv_file'?
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 14:44:07] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:44:08] ERROR: ERROR: Could not add/check quantity for product 10: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:44:09] ERROR: ERROR: Could not add/check quantity for product 19: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+------------------------------------------------------------
+[2025-07-14 14:45:54] ERROR: [Scroll] No more products loading. Exiting scroll loop.
+------------------------------------------------------------
+[2025-07-14 14:56:11] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 14:56:12] ERROR: ProductActions.scroll_to_load_all_products() got an unexpected keyword argument 'max_scrolls'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 15:00:02] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:00:32] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("button[data-testid=\"location-confirm-btn\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:00:53] ERROR: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:00:55] ERROR: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("button[aria-label=\"Select Location\"]") to be visible
+    - locator resolved to visible <button type="button" aria-haspopup="dialog" aria-label="Select Location" class="flex items-center gap-x-2 text-sm font-semibold">…</button>
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:01:38] ERROR: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.zeptonow.com/", waiting until "load"
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:01:41] ERROR: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("input[placeholder=\"Search a new address\"]") to be visible
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:15:00] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 15:15:01] ERROR: ProductActions.scroll_to_load_all_products() got an unexpected keyword argument 'max_scrolls'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 15:19:26] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals']
+------------------------------------------------------------
+[2025-07-14 15:19:27] ERROR: ProductActions.scroll_to_load_all_products() got an unexpected keyword argument 'max_scrolls'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 16:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 16:00:01] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:00:04] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 16:00:04] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 16:00:04] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:00:04] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:00:07] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 16:00:07] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 16:40:12] ERROR: name 'LOCATION_BUTTON_SELECTOR' is not defined
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 16:50:53] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[data-testid='subcategory-link']") to be visible
+
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 17:06:54] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:08:19] ERROR: Page.type: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[placeholder=\"Search a new address\"]")
+
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 17:14:37] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals', 'Subcategory 14', 'Subcategory 15', '₹124', '₹40', '₹40', '₹98', '₹15', '₹60', '₹92', '₹116', '₹102', '₹91', '₹40', '₹40', '₹40', '₹40', '₹40', '₹75', '₹91', '₹97', '₹179', '₹70', '₹14', '₹99', '₹233', '₹238', '₹135', '₹376', '₹270', '₹673', '₹600', '₹94', '₹217', '₹105']
+------------------------------------------------------------
+[2025-07-14 17:16:34] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("//div[contains(@class,\"no-scrollbar\")]//a") to be visible
+
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 17:22:03] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals', '₹124', '₹40', '₹40', '₹40', '₹98', '₹15', '₹60', '₹92', '₹116', '₹102', '₹91', '₹40', '₹40', '₹40', '₹40', '₹40', '₹75', '₹91', '₹97', '₹179', '₹70', '₹20', '₹99', '₹233', '₹294', '₹135', '₹238', '₹240', '₹600', '₹95', '₹105', '₹217']
+------------------------------------------------------------
+[2025-07-14 17:23:53] ERROR: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("//div[contains(@class,\"no-scrollbar\")]//a") to be visible
+
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 17:32:33] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals', 'Subcategory 14', 'Subcategory 15', '₹124', '₹40', '₹40', '₹40', '₹98', '₹15', '₹60', '₹92', '₹116', '₹102', '₹91', '₹40', '₹40', '₹40', '₹40', '₹40', '₹75', '₹91', '₹97', '₹179', '₹70', '₹20', '₹99', '₹233', '₹294', '₹135', '₹238', '₹240', '₹600', '₹95', '₹105', '₹217']
+------------------------------------------------------------
+[2025-07-14 17:32:37] ERROR: 'NoneType' object is not iterable
+  Context: main.full_scraper
+------------------------------------------------------------
+[2025-07-14 17:38:47] ERROR: Available subcategories listed
+  Context: ['₹1682', '₹59', '₹1699', '₹2799', '₹3120', '₹11949', '₹599', '₹969', '₹799', '₹1149', '₹59', '₹1199', '₹799', '₹1599', '₹699', '₹1249', '₹1299', '₹1249', '₹1099', '₹1299']
+------------------------------------------------------------
+[2025-07-14 17:38:47] ERROR: ElementHandle.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:42:47] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals', '₹124', '₹40', '₹40', '₹40', '₹98', '₹15', '₹60', '₹92', '₹116', '₹102', '₹92', '₹40', '₹40', '₹40', '₹40', '₹40', '₹75', '₹91', '₹97', '₹179', '₹70', '₹20', '₹99', '₹233', '₹294', '₹135', '₹238', '₹240', '₹600', '₹95', '₹105', '₹217']
+------------------------------------------------------------
+[2025-07-14 17:42:48] ERROR: 'ProductActions' object has no attribute 'scroll_to_load_all_products'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:50:42] ERROR: Available subcategories listed
+  Context: ['Top Picks', 'Soft Drinks', 'Soda & Mixers', 'Fruit Juices & Drinks', 'Cold Coffee & Iced Tea', 'Non-Alcoholic & Energy Drink', 'Water', 'Value Added Hydration', 'Milk Drinks', 'Vegan Drinks', 'Instant Drink Mixes', 'Zepto Cafe', 'Top Deals', '₹124', '₹40', '₹40', '₹40', '₹98', '₹15', '₹60', '₹92', '₹116', '₹102', '₹92', '₹40', '₹40', '₹40', '₹40', '₹40', '₹75', '₹91', '₹97', '₹179', '₹70', '₹20', '₹99', '₹233', '₹294', '₹135', '₹238', '₹240', '₹600', '₹95', '₹105', '₹217']
+------------------------------------------------------------
+[2025-07-14 17:50:42] ERROR: 'ProductActions' object has no attribute 'scroll_to_load_all_products'
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 17:57:04] ERROR: Available subcategories listed
+  Context: []
+------------------------------------------------------------
+[2025-07-14 17:57:06] ERROR: Page.query_selector_all: SyntaxError: Failed to execute 'matches' on 'Element': 'div.no-scrollbar.sticky.top-[102px]' is not a valid selector.
+    at SelectorEvaluatorImpl._matchesCSS (<anonymous>:4983:20)
+    at <anonymous>:4855:31
+    at SelectorEvaluatorImpl._cached (<anonymous>:4776:20)
+    at SelectorEvaluatorImpl._matchesSimple (<anonymous>:4852:17)
+    at <anonymous>:4919:20
+    at SelectorEvaluatorImpl._cached (<anonymous>:4776:20)
+    at SelectorEvaluatorImpl._matchesParents (<anonymous>:4902:17)
+    at <anonymous>:4815:54
+    at Array.filter (<anonymous>)
+    at <anonymous>:4815:29
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 18:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 18:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 18:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 18:00:05] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 18:00:06] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: Error initializing browser context
+------------------------------------------------------------
+[2025-07-14 18:00:06] ERROR: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
+[2025-07-14 18:00:59] ERROR: Available subcategories listed
+  Context: ['₹1682', '₹59', '₹1699', '₹2799', '₹3120', '₹11949', '₹599', '₹969', '₹799', '₹1149', '₹59', '₹1199', '₹799', '₹1599', '₹699', '₹1249', '₹1299', '₹1249', '₹1099', '₹1299']
+------------------------------------------------------------
+[2025-07-14 18:01:00] ERROR: Page.query_selector_all: SyntaxError: Failed to execute 'matches' on 'Element': 'div.no-scrollbar.sticky.top-[102px]' is not a valid selector.
+    at SelectorEvaluatorImpl._matchesCSS (<anonymous>:4983:20)
+    at <anonymous>:4855:31
+    at SelectorEvaluatorImpl._cached (<anonymous>:4776:20)
+    at SelectorEvaluatorImpl._matchesSimple (<anonymous>:4852:17)
+    at <anonymous>:4919:20
+    at SelectorEvaluatorImpl._cached (<anonymous>:4776:20)
+    at SelectorEvaluatorImpl._matchesParents (<anonymous>:4902:17)
+    at <anonymous>:4815:54
+    at Array.filter (<anonymous>)
+    at <anonymous>:4815:29
+  Context: main.zepto_scrape_job
+------------------------------------------------------------
