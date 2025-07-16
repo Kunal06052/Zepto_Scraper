@@ -35,12 +35,28 @@ class HumanActions:
         element.hover()
         self.random_delay(min_delay, max_delay)
 
-    def human_click(self, element, min_delay=0.23, max_delay=0.45):
-        self.human_mouse_move(element)
+    # def human_click(self, element, min_delay=0.23, max_delay=0.45):
+    #     self.human_mouse_move(element)
+    #     element.hover()
+    #     self.random_delay(min_delay, max_delay)
+    #     element.click()
+    #     self.random_delay(min_delay, max_delay)
+
+    def human_click(self, element):
+        if not element:
+            return False
+        box = element.bounding_box()
+        if not box:
+            return False
+        x = box["x"] + random.uniform(0.2, 0.8) * box["width"]
+        y = box["y"] + random.uniform(0.2, 0.8) * box["height"]
+        self.page.mouse.move(x, y)
+        self.human_sleep(0.2, 0.4)
         element.hover()
-        self.random_delay(min_delay, max_delay)
+        self.human_sleep(0.2, 0.4)
         element.click()
-        self.random_delay(min_delay, max_delay)
+        self.human_sleep(0.3, 0.7)
+        return True
 
     def human_scroll(self, amount, min_delay=0.34, max_delay=0.62):
         # Move mouse to random area before scrolling, as if grabbing scroll bar

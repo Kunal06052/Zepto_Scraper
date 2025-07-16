@@ -38,3 +38,13 @@ LOCATION_BUTTON_SELECTOR = 'button[aria-haspopup="dialog"][aria-label="Select Lo
 LOCATION_INPUT_SELECTOR = 'input[placeholder="Search a new address"]'
 LOCATION_RESULT_SELECTOR = 'div[data-testid="address-search-container"] div[data-testid="address-search-item"]:first-child'
 LOCATION_CONFIRM_SELECTOR = 'button[data-testid="location-confirm-btn"]'
+# src/config.py
+
+# PRODUCT_CARD_SELECTOR = "div[data-testid='product-card']"
+# SUBCATEGORY_SELECTOR = "div.no-scrollbar.sticky.top-[102px] a"
+XHR_PRODUCT_PATTERN = "/api/store-products-by-store-subcategory-id"
+# PRODUCT_CARD_SELECTOR = "div[data-testid='product-card']"
+# PRODUCT_CONTAINER_SELECTOR = "div.no-scrollbar.grid.grid-cols-2"
+ADD_BUTTON_SELECTOR = 'button[aria-label="add"]'
+PLUS_BUTTON_SELECTOR = 'button[aria-label="Add"][data-testid="undefined-plus-btn"]'
+MINUS_BUTTON_SELECTOR = 'button[aria-label="Remove"][data-testid="undefined-minus-btn"]'

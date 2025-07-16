@@ -169,8 +169,9 @@
 from src.core.driver_manager import DriverManagers
 from src.actions.location_actions import Action
 from src.actions.navigation_actions import NavigationActions
-from src.actions.product_actions import ProductActions
+from src.actions.product_actions import ProductScraper
 from src.page_objects.category_page import CategoryPage
+# from src.page_objects.subcategory_page import SubcategoryScrollerIterator
 import time
 
 def main():
@@ -181,6 +182,7 @@ def main():
     location_actions = Action(page)
     location_actions.set_location("Golf Course Metro Station")
     time.sleep(10)
+    
     category_page = CategoryPage(page)
     category_page.humanized_carousel_scroll(net_right=2)
     time.sleep(10)
@@ -190,9 +192,22 @@ def main():
     # navigation.scroll_right_n_times(2)
     # navigation.click_category_by_href("/cn/cold-drinks-juices")
     time.sleep(10)
-    product_actions = ProductActions(page)
-    product_actions.run()
-    driver.close()
+#testing subcategory clicker
+    from src.page_objects.subcategory_page import SubCategoryClicker
+
+
+    subcategory = SubCategoryClicker(page)
+    subcat = subcategory.get_or_create_subcategory_csv()
+    for cat in subcat:
+        subcategory.click_subcategory_by_name(cat)
+        time.sleep(10)
+    
+    
+    # subcategory.click_subcategory_by_name("Top Picks")
+    # scraper = ProductScraper(page)
+    # product_actions.run()
+    # scraper.process_all_subcategories()
+    # driver.close()
 
 if __name__ == "__main__":
     main()
